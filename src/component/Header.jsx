@@ -57,6 +57,7 @@ const Header = ({classname}) => {
                 </a>
               </NavLink>
             </li>
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
           </ul>
         </div>
         <div className="offcanvas-body">
